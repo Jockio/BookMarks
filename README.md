@@ -1,8 +1,4 @@
 # BookMarks
-### Software
-
-* [Mac](/software/Mac.md)
-
 ### Blogs
 
 * [Android](/blogs/Android.md)
@@ -11,7 +7,10 @@
 
 * [Swift](/programming language/Swift.md)
 
+### Software
+
+- [Mac](/software/Mac.md)
+
 ### Others
 
 * [Others](others.md)
-
