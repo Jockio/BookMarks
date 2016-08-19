@@ -31,6 +31,7 @@
 11. [Android中自定义样式与View的构造函数中的第三个参数defStyle的意义](http://www.cnblogs.com/angeldevil/p/3479431.html)
 12. [史上最全的Java & Android面试题搜集整理](http://blog.csdn.net/wdong_love_cl/article/details/52084720)
 13. [腾讯优测-优分享](http://bbs.utest.qq.com/)
+14. [Notification 属性详解](https://www.intertech.com/Blog/android-development-tutorial-lollipop-notifications/)
 
 ### Android 面经
 1. [2016Android某公司面试题](http://blog.csdn.net/jdsjlzx/article/details/51201925)
